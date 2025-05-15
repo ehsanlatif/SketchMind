@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "label": "Cold Water",
+      "bloom_level": "Remember"
+    },
+    {
+      "label": "Room Temperature Water",
+      "bloom_level": "Remember"
+    },
+    {
+      "label": "Hot Water",
+      "bloom_level": "Remember"
+    },
+    {
+      "label": "Water Particles",
+      "bloom_level": "Understand"
+    },
+    {
+      "label": "Dye Particles",
+      "bloom_level": "Understand"
+    },
+    {
+      "label": "Motion in Cold Water",
+      "bloom_level": "Apply"
+    },
+    {
+      "label": "Motion in Room Temperature Water",
+      "bloom_level": "Apply"
+    },
+    {
+      "label": "Motion in Hot Water",
+      "bloom_level": "Apply"
+    },
+    {
+      "label": "Temperature Effect on Motion",
+      "bloom_level": "Analyze"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Cold Water",
+      "to": "Motion in Cold Water"
+    },
+    {
+      "from": "Room Temperature Water",
+      "to": "Motion in Room Temperature Water"
+    },
+    {
+      "from": "Hot Water",
+      "to": "Motion in Hot Water"
+    },
+    {
+      "from": "Water Particles",
+      "to": "Motion in Cold Water"
+    },
+    {
+      "from": "Water Particles",
+      "to": "Motion in Room Temperature Water"
+    },
+    {
+      "from": "Water Particles",
+      "to": "Motion in Hot Water"
+    },
+    {
+      "from": "Dye Particles",
+      "to": "Motion in Cold Water"
+    },
+    {
+      "from": "Dye Particles",
+      "to": "Motion in Room Temperature Water"
+    },
+    {
+      "from": "Dye Particles",
+      "to": "Motion in Hot Water"
+    },
+    {
+      "from": "Motion in Cold Water",
+      "to": "Temperature Effect on Motion"
+    },
+    {
+      "from": "Motion in Room Temperature Water",
+      "to": "Temperature Effect on Motion"
+    },
+    {
+      "from": "Motion in Hot Water",
+      "to": "Temperature Effect on Motion"
+    }
+  ]
+}
