@@ -1,4 +1,3 @@
-Based on your provided scripts and updated context, here's the revised and complete `README.md` file. It now reflects the LLaMA-4 based and GPT-4o based agent pipelines implemented in the following scripts:
 # SketchMind: A Multi-Agent Cognitive Framework for Scientific Sketch Assessment
 
 SketchMind introduces a cognitively grounded, multi-agent framework for assessing scientific sketches using semantic structures known as **Sketch Reasoning Graphs (SRGs)**. Each SRG is annotated with **Bloom’s Taxonomy** levels and constructed via AI agents that collaboratively parse rubrics, analyze student sketches, evaluate conceptual understanding, and generate pedagogical feedback.
@@ -11,11 +10,12 @@ Two full multi-agent pipelines are provided:
 ---
 
 ## Directory Structure
+```
 .
 ├── graphs/            # Gold-standard SRG annotations from experts
 ├── scripts/           # All core scripts including agent implementations
 ├── srg\_cache/         # Cached SRGs and intermediate feedback outputs
-
+```
 ---
 
 ## Scripts and Agent Descriptions
