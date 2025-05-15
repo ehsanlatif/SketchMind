@@ -14,7 +14,7 @@ Two full multi-agent pipelines are provided:
 .
 ├── graphs/            # Gold-standard SRG annotations from experts
 ├── scripts/           # All core scripts including agent implementations
-├── srg\_cache/         # Cached SRGs and intermediate feedback outputs
+├── srg_cache/         # Cached SRGs and intermediate feedback outputs
 ```
 ---
 
