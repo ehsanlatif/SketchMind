@@ -15,11 +15,14 @@
 
 ---
 
-#### **Performance Badges & Benchmarks**
+#### **Performance Benchmarks**
 
 [![Average Accuracy Improvement](https://img.shields.io/badge/Average%20Accuracy%20Improvement-15.9%25-brightgreen)](https://github.com/ehsanlatif/SketchMind)
+
 [![Highest Accuracy With SRG](https://img.shields.io/badge/Highest%20Accuracy%20With%20SRG%20-90.2%25-blue)](https://github.com/ehsanlatif/SketchMind)
+
 [![Highest Feedback Quality](https://img.shields.io/badge/Highest%20Feedback%20Quality%20-4.1-purple)](https://github.com/ehsanlatif/SketchMind)
+
 [![Best Results](https://img.shields.io/badge/Best%20Results-GPT--4.1%20-red)](https://github.com/ehsanlatif/SketchMind)
 
 ---
