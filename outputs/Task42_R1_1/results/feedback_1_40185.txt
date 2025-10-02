@@ -1,0 +1,25 @@
+
+**Your Proficiency Level:** Developing
+
+**What You Did Well:**
+The student demonstrated sound structure despite missing some components.
+
+**What Needs Attention:**
+- Missing Concepts: Cold Water, Room Temperature Water, Hot Water, Water Particles, Dye Particles, Motion in Cold Water, Motion in Room Temperature Water, Motion in Hot Water, Temperature Effect on Motion
+- Missing Relationships: connections not shown in sketch.
+- Extra Concepts: Cold Water, Room Temperature Water, Hot Water, Water Particles, Motion in Cold Water, Motion in Room Temperature Water, Motion in Hot Water, Temperature Effect on Motion
+- Depth Conflicts: Some concepts are not represented at the correct Bloom level.
+
+**Co-Creation Guidance (Next Sketch Revisions):**
+- Cold Water (Remember): Illustrate slow particle movement with short arrows.
+- Room Temperature Water (Remember): Illustrate moderate particle movement with medium arrows.
+- Hot Water (Remember): Illustrate fast particle movement with long arrows.
+- Water Particles (Understand): Use neutral symbols and labels to represent water molecules.
+- Dye Particles (Understand): Use colored symbols or specific labels for dye molecules.
+- Motion in Cold Water (Apply): Use shorter arrows indicating slower motion.
+- Motion in Room Temperature Water (Apply): Use medium arrows for moderate motion.
+- Motion in Hot Water (Apply): Use long arrows for fast motion.
+- Temperature Effect on Motion (Analyze): Show increased arrow length as temperature increases to indicate faster movement.
+
+**Reasoning Gaps Detected In:**
+  → Dye Particles

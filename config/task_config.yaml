@@ -1,0 +1,53 @@
+# Example Task Configuration for Task42_R1_1
+# This is a complete working example demonstrating how to configure the system
+
+task_id: "Task42_R1_1"
+
+model:
+  type: "llama4"  # Switch to "gpt" to use GPT models
+
+# GPT configuration (OpenAI)
+gpt:
+  name: "gpt-4o" # e.g. GPT-4o, GPT-4.1
+  max_tokens: 1500
+
+# Llama4 configuration (OpenRouter API - no GPU required)
+llama4:
+  model_name: "meta-llama/llama-4-maverick:free"
+  api_base: "https://openrouter.ai/api/v1"
+  max_tokens: 1500
+
+# Question about the science task
+question:
+  file: "data/Task42_R1_1/question.txt"
+  # Alternatively, use file path:
+  #text: " Question text here "
+
+# Evaluation rubric text with proficiency levels
+rubric:
+  file: "data/Task42_R1_1/rubric.txt"
+  # Alternatively, use file path:
+  #text: " Rubric text here "
+
+# Paths to reference images and output directories
+paths:
+  data_dir: "data"
+  golden_standard_images:
+    - "data/Task42_R1_1/golden_standard_images/2_878.jpg"
+    - "data/Task42_R1_1/golden_standard_images/2_39456.jpg"
+    - "data/Task42_R1_1/golden_standard_images/2_28743.jpg"
+  
+  output_dir: "outputs"
+  logs_dir: "outputs/{task_id}/logs"
+  cache_dir: "outputs/{task_id}/cache"
+  results_dir: "outputs/{task_id}/results"
+
+# Agent behavior parameters
+agents:
+  max_retry_attempts: 3
+  score_threshold: 0.75  # Minimum score for "Proficient" classification
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s [%(levelname)s] %(message)s"
+

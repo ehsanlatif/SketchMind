@@ -1,0 +1,11 @@
+{
+  "Cold Water": "Illustrate slow particle movement with short arrows.",
+  "Room Temperature Water": "Illustrate moderate particle movement with medium arrows.",
+  "Hot Water": "Illustrate fast particle movement with long arrows.",
+  "Water Particles": "Use neutral symbols and labels to represent water molecules.",
+  "Dye Particles": "Use colored symbols or specific labels for dye molecules.",
+  "Motion in Cold Water": "Use shorter arrows indicating slower motion.",
+  "Motion in Room Temperature Water": "Use medium arrows for moderate motion.",
+  "Motion in Hot Water": "Use long arrows for fast motion.",
+  "Temperature Effect on Motion": "Show increased arrow length as temperature increases to indicate faster movement."
+}

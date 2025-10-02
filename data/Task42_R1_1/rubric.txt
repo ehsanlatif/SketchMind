@@ -1,0 +1,9 @@
+(
+"Rubric Element (A): Student must depict water particles and show their motion at each temperature.\n"
+"Rubric Element (B): Student must distinguish between water and dye particles visually or with labels.\n"
+"Rubric Element (C): Motion must be illustrated with directional arrows or labels showing speed.\n"
+"Proficient: Student develops a model that identifies both water and dye particles and their motion while describing that water molecules move faster at higher temperatures (and vice versa). Satisfied All Rubric Elements.\n"
+"Developing: Student develops a model that partially identifies both water and dye particles and their motion while describing that water molecules move faster at higher temperatures (and vice versa). Satisfied most but not all rubric elements.\n"
+"Beginning: Student does not develop a model that identifies both water and dye particles and their motion while describing that water molecules move faster at higher temperatures (and vice versa). Satisfied one or less rubric elements.\n"
+)
+

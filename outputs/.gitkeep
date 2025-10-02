@@ -1,0 +1,6 @@
+# This directory will contain pipeline outputs organized by task_id
+# Subdirectories will be created automatically:
+#   - logs/: Agents execution logs
+#   - cache/: SRG cache files for faster re-runs
+#   - results/: Visual hints and feedback files
+

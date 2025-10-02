@@ -1,0 +1,46 @@
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Dataset (optional - uncomment if datasets are large)
+# data/
+
+# Model checkpoints (for Llama4)
+*.bin
+*.safetensors
+models/
+
