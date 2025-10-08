@@ -86,15 +86,15 @@ SketchMind/
 ├── config/                          # Configuration files
 │   ├── task_config.yaml             # Task Specific configuration 
 ├── data/                            # Task-specific data
-│   ├── README.md                    # Data organization guide
+│   ├── README.md                    
 │   └── {task_id}/                   # Per-task directories
 │       ├── student_images/          # Student submissions
 │       ├── golden_standard_images/  # 3 reference sketches
 │       ├── question.txt             # Task question (optional)
 │       └── rubric.txt               # Evaluation rubric (optional)
-├── outputs/                         # Generated outputs (gitignored)
+├── outputs/                         
 │   └── {task_id}/
-│       ├── logs/                    # Execution logs including Agent's output
+│       ├── logs/                    
 │       ├── cache/                   # SRG cache files
 │       └── results/                 # Visual hints and textual feedback
 ├── scripts/                         # Core implementation
@@ -103,9 +103,9 @@ SketchMind/
 │   ├── GPT_SRG_MAS.py               # GPT pipeline
 │   ├── Llama4_SRG_Agents.py         # Llama4-based agents
 │   ├── Llama4_SRG_MAS.py            # Llama4 pipeline
-│   └── requirements.txt             # Python dependencies
+│   └── requirements.txt             
 ├── .env.example                     # API key template
-├── .gitignore                       # Git ignore patterns
+├── .gitignore                       
 ├── run.py                           # Unified entry point
 └── README.md                        # This file
 ```
